@@ -1,0 +1,42 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  }/* Type your css here */
+  h1{
+    font-weight: 700;
+  }
+  h2{
+    font-weight: 600;
+    padding-bottom: 20px;
+  }
+  .content{
+    background-color: #ddd;
+    padding:5px 20px;
+    margin: 20px 0;
+    text-align: justify;
+  }
+
+  /*-------Navigation Bar Style--------*/
+
+
+  #nav-design{
+    background-color: #aaa;
+  }
+  .navbar-brand{
+    font-weight: 600;
+  }
+  .navbar-inverse .navbar-brand {
+    color: #111;
+  }
+  .navbar-inverse .navbar-nav > li > a {
+    color: #111;
+  }
+  .navbar-inverse .navbar-nav > li > a:hover {
+    color: #fff;
+  }
+  .navbar-toggle{
+    background-color: #111;
+  }
+  .navbar-inverse .navbar-toggle:hover,
+  .navbar-inverse .navbar-toggle:focus{
+    background-color: #aaa;
+  }
